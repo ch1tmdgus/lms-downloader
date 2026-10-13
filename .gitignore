@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.env*
+*.mp4
+*.webm
+*.mov
+*.part
+request.curl
+cookies*
+.DS_Store
